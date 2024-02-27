@@ -1,0 +1,20 @@
+
+.segundo_titulo {
+    color:  green;
+}
+
+#segundo_titulo_id {
+    color:  rgb(128, 0, 100);
+}
+
+h1 {
+         color: blue;
+         display: flex;
+         justify-content: center;
+         align-items: center;
+}  
+
+b 	{
+    font-style: italic;
+    text-shadow: 100px;
+}         
